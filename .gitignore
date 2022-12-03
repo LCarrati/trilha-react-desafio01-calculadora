@@ -7,6 +7,8 @@
 
 # testing
 /coverage
+temporario.js
+/src/Versao_1_ok
 
 # production
 /build
