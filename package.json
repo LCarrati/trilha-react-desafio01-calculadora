@@ -1,6 +1,6 @@
 {
-  "name": "desafio01-calculadora",
-  "homepage": "https://LCarrati.github.io/desafio01-calculadora",
+  "name": "trilha-react-desafio01-calculadora",
+  "homepage": "https://LCarrati.github.io/trilha-react-desafio01-calculadora",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
